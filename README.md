@@ -1,4 +1,4 @@
-<img height="550px" width="100%" alt="banner" src="https://github.com/shreedhar03/shreedhar03/blob/main/shreedhar.png">
+<img height="450px" width="100%" alt="banner" src="https://github.com/shreedhar03/shreedhar03/blob/main/shreedhar.png">
 
 <h1 align="center">Hi 👋, I'm Shreedhar Urawane</h1>
 
